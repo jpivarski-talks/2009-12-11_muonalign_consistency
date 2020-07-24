@@ -1,0 +1,32 @@
+> The movements in the BPIX doesn't come as a surprise. In fact, we
+> should
+>
+> expect such movements (on the level of half barrels) everytime we warm
+> up the detector. The reason is the following. The BPIX consists of the
+> barrel detector with the two service cylinders (SC) on each side. The
+> forces from the SC on the detector are very large, due to the large
+> amount of cables connecting them (although each individual cable is
+> quite flexible). The SC is fixed at the bulk head end. Due to thermal
+> expansion the detector end of the SC moves when changing temperature,
+> meaning that the forces on the detector change. Although the detector
+> position is fixed by carbon fiber rods, it cannot withstand large
+> forces
+>
+> (be aware of the lightweight structure of the pixel). So, movements in
+> the range of a few 10um should be expected each time we  have to
+> warm up
+>
+> the detector.
+> In the FPIX it is a bit different. The detectors are mounted
+> directly on
+>
+> the service structure, which again is fixed at the bulk head end.
+> Therefore, they will move with temperature. I don't know how well the
+> position is reproducible (i.e. changing T and back again). But I would
+> expect changes in the same order of magnitude as in BPIX, simply
+> because
+>
+> of the rough surface ( on a scale of um) of the carbon rails. Maybe
+> FPIX
+>
+> experts could comment here.
